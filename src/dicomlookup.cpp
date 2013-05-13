@@ -20,9 +20,9 @@
 
 #include "octave/oct.h"
 
-#include "gdcm-2.0/gdcmDict.h"
-#include "gdcm-2.0/gdcmVR.h"
-#include "gdcm-2.0/gdcmVM.h"
+#include "gdcm/gdcmDict.h"
+#include "gdcm/gdcmVR.h"
+#include "gdcm/gdcmVM.h"
 
 #include "dicomdict.h"
 
