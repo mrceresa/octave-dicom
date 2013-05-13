@@ -19,7 +19,7 @@
 
 INCDIRFLAGS =	
 LIBDIRFLAGS =	-L/usr/local/lib
-GDCMLIBFLAGS =	-lgdcmcharls  -lgdcmjpeg8 -lgdcmjpeg12 \
+GDCMLIBFLAGS =	-lgdcmjpeg8 -lgdcmjpeg12 \
 -lgdcmjpeg16 -lgdcmCommon \
 -lgdcmDICT -lgdcmDSED -lgdcmIOD -lgdcmMSFF  
 DEBUGFLAG =	-g
